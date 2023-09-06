@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:flutter/material.dart';
 import 'package:test_app/bloc/rgb_color_bloc.dart';
 import 'package:test_app/stream_transform_helpers.dart';
